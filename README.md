@@ -1,5 +1,5 @@
 ## Bem Vindo ao Meu Pefil
--sou doidu jogo pedra no povo sou 
+-sou doidu jogo pedra no povo 
 
 
 
