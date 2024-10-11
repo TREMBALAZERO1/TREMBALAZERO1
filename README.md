@@ -1,15 +1,7 @@
 ## Bem Vindo ao Meu Pefil
--sou doidu jogo pedra no povo 
+meu nome é Luiz 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-
-
--mestre no ff
-
-
-
--ja matei o cerol,turzin,bak e nobru
-
-
-
--tenho 8 diarios na conta 
-
+https://cdn.acritica.net/img/pc/920/600/dn_arquivo/2023/08/whatsapp-image-2023-08-09-at-122959.jpeg
